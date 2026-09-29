@@ -1,0 +1,9 @@
+# AndroidSecAnalyzer Dependencies
+# Proje bağımlılıkları
+
+# Core
+click>=8.0.0
+pyyaml>=6.0.0
+
+# Testing
+pytest>=7.0.0
